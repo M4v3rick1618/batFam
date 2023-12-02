@@ -19,6 +19,9 @@
     color: rgb(199, 199, 15);
     background-color: black;
     border-radius: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    
 
 }
 
@@ -38,8 +41,9 @@ li{
     display: inline;
     margin-right: 30px;
     text-decoration: none;
+    flex: auto;
 }
 
-a{
+nav.a{
     text-decoration: none;
 }
